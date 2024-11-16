@@ -1,0 +1,38 @@
+genre,genre_id
+Sport,1
+News,2
+Talk-Show,3
+Horror,4
+Short,5
+Thriller,6
+Action,7
+Crime,8
+Drama,9
+Adventure,10
+Musical,11
+Documentary,12
+Biography,13
+War & Politics,14
+Romance,15
+Soap,16
+Mystery,17
+War,18
+Family,19
+Talk,20
+Game-Show,21
+Fantasy,22
+Reality,23
+Adult,24
+Kids,25
+Action & Adventure,26
+Music,27
+Science Fiction,28
+Sci-Fi,29
+Western,30
+Animation,31
+History,32
+Film-Noir,33
+TV Movie,34
+Comedy,35
+Reality-TV,36
+Sci-Fi & Fantasy,37

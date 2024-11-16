@@ -92,7 +92,7 @@ df5["Release_Year"] = df5["Release_Year"].astype(int)
 df5["IMDB_Num_of_Votes"] = df5["IMDB_Num_of_Votes"].astype(int)
 
 # Define the SQLAlchemy engine
-engine = create_engine('mysql+mysqlconnector://root:mysqlpraj$0205@localhost:3306/ByteBlossom_048')  # Create an SQLAlchemy engine for database operations
+engine = create_engine('mysql+mysqlconnector://root:your_SQLpassword@hostname:port_number/Your_database_name')  # Create an SQLAlchemy engine for database operations
 
 # Upload each DataFrame to a MySQL table
 df1.to_sql('country_mapping', con=engine, if_exists='replace', index=False)

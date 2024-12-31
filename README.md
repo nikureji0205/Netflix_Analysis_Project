@@ -7,9 +7,9 @@
 - [Project Repository](#project-repository)
 - [Acknowledgment](#acknowledgment)
 
-# Netflix_Analysis
+# Netflix_Analysis Dashboard
 
-Byte Blossom_048 is a movie analytics dashboard designed using Power BI. It provides detailed insights into various movies, including their release year, average ratings, and other essential information. Data cleaning and analysis were performed using Python, and the data was loaded into the system using SQL.
+Netflix_Analysis dashboard is a movie analytics dashboard designed using Power BI. It provides detailed insights into various movies, including their release year, average ratings, and other essential information. Data cleaning and analysis were performed using Python, and the data was loaded into the system using SQL.
 
 
 ## Installation

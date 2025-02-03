@@ -11,7 +11,11 @@
 
 Netflix_Analysis dashboard is a movie analytics dashboard designed using Power BI. It provides detailed insights into various movies, including their release year, average ratings, and other essential information. Data cleaning and analysis were performed using Python, and the data was loaded into the system using SQL.
 
-![Project Screen Shot](https://github.com/AliAbbaskhan04/Byte_Blossom_048/blob/main/Flowchart.png)
+### page1
+![Project Screen Shot](https://github.com/user-attachments/assets/fc81f3cb-9aa1-4b91-b144-c987ed6fccb3)
+
+### page2
+![Project Screen Shot](https://github.com/user-attachments/assets/012c95d7-0269-444d-a4a8-4420164e84a2)
 
 
 ## Installation
